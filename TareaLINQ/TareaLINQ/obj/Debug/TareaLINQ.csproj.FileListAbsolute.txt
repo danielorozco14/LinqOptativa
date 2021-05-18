@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\bin\Debug\TareaLINQ.exe.config
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\bin\Debug\TareaLINQ.exe
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\bin\Debug\TareaLINQ.pdb
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\obj\Debug\TareaLINQ.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\obj\Debug\TareaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\obj\Debug\TareaLINQ.exe
+C:\Users\usuario\Desktop\POO 01 21\LINQ\TareaLINQ\TareaLINQ\obj\Debug\TareaLINQ.pdb
